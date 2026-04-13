@@ -18,7 +18,7 @@ The focus is not just theory—but **building, experimenting, and shipping real 
 Ai-Horizon-Community/
 │
 ├── Week_1/
-│   └── Streamlit Simple Calculator
+│   └── Task_1.py 
 │
 ├── Week_2/
 │   └── Streamlit Simple Calculator
